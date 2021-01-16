@@ -34,6 +34,7 @@ namespace Metodlar
             sepetManager.Ekle(urun1);
             sepetManager.Ekle(urun2);
             
+            //hatalı yazım
             sepetManager.Ekle2("armut","armut gibi",25,100);
             sepetManager.Ekle2("portakal", "finike", 3,21);
             sepetManager.Ekle2("muz", "Anamur", 10,45);
